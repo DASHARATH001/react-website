@@ -7,7 +7,7 @@ import About from "./pages/About"
 import Services from "./pages/Services"
 import Contact from "./pages/Contact"
 import Register from "./pages/Register"
-import Login from "./pages/login"
+import Login from "./pages/Login"
 
 
 function App() {
